@@ -1,0 +1,17 @@
+SMAP
+createAccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 RandomInteger.jsp
+RandomInteger.jsp
++ 1 createAccount.jsp
+createAccount.jsp
+*L
+1,6:50
+7,5:57
+11,4:62
+1#1,17:65
+18:82,3
+19,66:85
+*E

@@ -1,0 +1,17 @@
+SMAP
+deposit_jsp.java
+JSP
+*S JSP
+*F
++ 0 RandomInteger.jsp
+RandomInteger.jsp
++ 1 deposit.jsp
+deposit.jsp
+*L
+1,6:50
+7,5:57
+11,4:62
+1#1,30:65
+31:95,3
+32,18:98
+*E
